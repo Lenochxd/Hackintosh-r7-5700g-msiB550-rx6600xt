@@ -3,7 +3,8 @@
 <div align="center">
 
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/releases)
-  [![GitHub downloads](https://img.shields.io/github/downloads/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/total.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/releases)
+  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/total)
+  [![GitHub downloads](https://img.shields.io/github/downloads/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/total?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/releases)
   [![GitHub stars](https://img.shields.io/github/stars/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/stargazers)
   [![GitHub issues](https://img.shields.io/github/issues/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/issues)
   [![Discord](https://img.shields.io/discord/391919052563546112?style=flat&logo=Discord&logoColor=fff&label=Discord&color=5e6ae8&link=https%3A%2F%2Fdiscord.gg%2FtUPsYHAGfm)](https://discord.gg/tUPsYHAGfm)
