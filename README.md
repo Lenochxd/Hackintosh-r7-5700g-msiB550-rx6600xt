@@ -1,11 +1,11 @@
-# Opencore Configuration for Ryzen 7 5700X, ROG Strix B550-A Gaming, RX6800XT
+# Opencore Configuration for Ryzen 7 5700g, MSI MAG B550 Tomahawk, RX6600XT
 
 <div align="center">
 
-  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt.svg?style=flat)](https://github.com/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt/releases)
-  [![GitHub downloads](https://img.shields.io/github/downloads/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt/total.svg?style=flat)](https://github.com/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt/releases)
-  [![GitHub stars](https://img.shields.io/github/stars/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt.svg?style=flat)](https://github.com/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt/stargazers)
-  [![GitHub issues](https://img.shields.io/github/issues/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt.svg?style=flat)](https://github.com/Pepituwu/Opencore-config-for-r7-5700x-asusB550-rx6800xt/issues)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/releases)
+  [![GitHub downloads](https://img.shields.io/github/downloads/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/total.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/releases)
+  [![GitHub stars](https://img.shields.io/github/stars/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/stargazers)
+  [![GitHub issues](https://img.shields.io/github/issues/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt.svg?style=flat)](https://github.com/Lenochxd/Hackintosh-r7-5700g-msiB550-rx6600xt/issues)
   [![Discord](https://img.shields.io/discord/391919052563546112?style=flat&logo=Discord&logoColor=fff&label=Discord&color=5e6ae8&link=https%3A%2F%2Fdiscord.gg%2FtUPsYHAGfm)](https://discord.gg/tUPsYHAGfm)
 </div>
 
@@ -15,13 +15,13 @@ This repository contains the necessary EFI folder for running macOS on this syst
 **IMPORTANT: Please ensure that you change the serial numbers in config.plist to avoid conflicts. You can easily change the serial numbers using        [Opencore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/).**
 
 ## System Specifications
-- Processor: Ryzen 7 5700X
-- Memory: 16GB DDR4 RAM @ 3200MHz (C16)
+- Processor: Ryzen 7 5700G
+- Memory: 16GB DDR4 RAM @ 2667MHz
 - Storage: 
-  - 516GB PNY SSD (Primary Drive, dual-booting with Windows)
-  - 1TB HDD
-- Motherboard: ROG Strix B550-A Gaming
-- Graphics Card: Aorus RX6800XT
+  - 128GB EMTEC SATA NVME (Primary Drive)
+  - 3TB HDD
+- Motherboard: MSI MAG B550 Tomahawk
+- Graphics Card: XFX RX6600XT
 
 ## Compatibility
 | macOS Version | Compatibility |
