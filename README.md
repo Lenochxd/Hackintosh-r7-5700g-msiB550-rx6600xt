@@ -19,7 +19,7 @@ This repository contains the necessary EFI folder for running macOS on this syst
 - Memory: 16GB DDR4 RAM @ 2667MHz
 - Storage: 
   - 128GB EMTEC SATA NVME (Primary Drive)
-  - 3TB HDD
+  - 2+1+0.5TB HDD
 - Motherboard: MSI MAG B550 Tomahawk
 - Graphics Card: XFX RX6600XT
 
