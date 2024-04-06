@@ -37,6 +37,8 @@ This repository contains the necessary EFI folder for running macOS on this syst
 | GPU Acceleration and GPU Encoding| ✅             |
 | Ethernet                         | ✅             |
 | SATA and NVMe drives             | ✅             |
+| Processor graphics               | ❌             |
+| Discord official client          | ❌             |
 
 **Note:** There might be a known issue with the audio driver causing Discord to crash when joining a voice chat (discord fault). In such cases, consider using the [Vesktop Client](https://github.com/Vencord/Vesktop) as an alternative.
 
